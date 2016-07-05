@@ -1,3 +1,5 @@
+ <tags ms.service="trust-center" ms.date="12/2015" wacn.date="12/2015" wacn.lang="cn"/>
+
 > [AZURE.LANGUAGE]
 - [中文](/support/trust-center/privacy/)
 - [English](/support/trust-center/privacy-en/)
@@ -8,8 +10,6 @@
 * 您可完全控制自己的数据
 * 我们如何响应执法机关或其他第三方向世纪互联索要客户数据的要求
 * 我们设置并坚持严格的隐私标准
- 
- <tags ms.service="trust-center" ms.date="12/2015" wacn.date="12/2015" wacn.lang="cn"/>
  
 隐私是产品和服务生命周期的重要组成部分。世纪互联努力使自己的隐私惯例透明化，为客户提供清晰易懂的隐私选择，并以高度责任心管理所存储的数据。
 

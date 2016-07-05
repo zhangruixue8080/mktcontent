@@ -1,11 +1,11 @@
+ <tags ms.service="trust-center" ms.date="12/2015" wacn.date="12/2015" wacn.lang="en"/>
+
 > [AZURE.LANGUAGE]
 - [中文](/support/trust-center/compliance/)
 - [English](/support/trust-center/compliance-en/)
 
 # Compliance
 ## Industry-verified conformity with global/domestic standards
- 
- <tags ms.service="trust-center" ms.date="12/2015" wacn.date="12/2015" wacn.lang="en"/>
  
 Microsoft Azure operated by 21Vianet partners with customers to help them address regulatory requirements. By providing customers with compliant, independently verified cloud services, we make it easier for customers to achieve compliance for the infrastructure and applications they run in Microsoft Azure operated by 21Vianet. We provide customers with information about our security and compliance programs, to help customers assess our services against their own legal and regulatory requirements.
 

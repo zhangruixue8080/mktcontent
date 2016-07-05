@@ -1,3 +1,5 @@
+ <tags ms.service="trust-center" ms.date="12/2015" wacn.date="12/2015" wacn.lang="cn"/>
+
 > [AZURE.LANGUAGE]
 - [中文](/support/trust-center/security/)
 - [English](/support/trust-center/security-en/)
@@ -12,8 +14,6 @@
 * 威胁管理
 * 监视、日志记录和报告
 * 渗透测试
- 
- <tags ms.service="trust-center" ms.date="12/2015" wacn.date="12/2015" wacn.lang="cn"/>
  
 由世纪互联运营的 Microsoft Azure 仅在位于中国大陆的数据中心运行。它们由世纪互联运营人员进行管理和监控，这些人员拥有提供全天候安全联机服务的多年丰富经验。
 

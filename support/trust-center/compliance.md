@@ -1,11 +1,11 @@
+ <tags ms.service="trust-center" ms.date="12/2015" wacn.date="12/2015" wacn.lang="cn"/>
+
 > [AZURE.LANGUAGE]
 - [中文](/support/trust-center/compliance/)
 - [English](/support/trust-center/compliance-en/)
 
 # 合规性
 ## 经行业验证符合国际/国内标准
- 
- <tags ms.service="trust-center" ms.date="12/2015" wacn.date="12/2015" wacn.lang="cn"/>
  
 我们与客户合作以帮助其满足法规要求。通过为客户提供合规的、独立验证的云服务，我们使客户能够更轻松地实现其在 Azure 中运行的基础结构和应用程序的合规性。我们为 Azure 客户提供了有关我们的安全性和合规性计划的信息，旨在帮助客户针对其自己的法律和法规要求评估我们的服务。
 

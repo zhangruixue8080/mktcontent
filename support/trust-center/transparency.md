@@ -1,3 +1,5 @@
+ <tags ms.service="trust-center" ms.date="12/2015" wacn.date="12/2015" wacn.lang="cn"/>
+
 > [AZURE.LANGUAGE]
 - [中文](/support/trust-center/transparency/)
 - [English](/support/trust-center/transparency-en/)
@@ -8,8 +10,6 @@
 * 您知道何人在何种情况下可访问您的数据
 * 我们将努力告知您何人要求访问您的数据
 * 您可以查看 Azure 合规认证
- 
- <tags ms.service="trust-center" ms.date="12/2015" wacn.date="12/2015" wacn.lang="cn"/>
  
 Azure 构建的前提是：您可以完全控制自己在云中的客户数据，并要求对数据的可见性。您清楚知悉存储数据的位置。此外还明确了解我们如何帮助保护您的数据安全，以及何人在何种情况下可以访问。同时也可以获取第三方所设定标准的审核和认证。
 

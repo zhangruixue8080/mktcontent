@@ -1,3 +1,5 @@
+ <tags ms.service="trust-center" ms.date="12/2015" wacn.date="12/2015" wacn.lang="en"/>
+
 > [AZURE.LANGUAGE]
 - [中文](/support/trust-center/transparency/)
 - [English](/support/trust-center/transparency-en/)
@@ -8,8 +10,6 @@
 * You know who can access your data and under what conditions
 * We strive to let you know who requests access to your data
 * You can audit Azure standards certifications
- 
- <tags ms.service="trust-center" ms.date="12/2015" wacn.date="12/2015" wacn.lang="en"/>
  
 Azure is built on the premise that for you to control your own customer data in the cloud, you require visibility into that data. You must know where it is stored. You must also know, through clearly stated and readily available policies and procedures, how we help secure your customer data, who can access it and under what circumstances. And you can review the third-party audits and certifications.
 

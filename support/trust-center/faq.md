@@ -1,10 +1,10 @@
+ <tags ms.service="trust-center" ms.date="12/2015" wacn.date="12/2015" wacn.lang="cn"/>
+
 > [AZURE.LANGUAGE]
 - [中文](/support/trust-center/faq/)
 - [English](/support/trust-center/faq-en/)
 
 # 常见问题（FAQ）
- 
- <tags ms.service="trust-center" ms.date="12/2015" wacn.date="12/2015" wacn.lang="cn"/>
  
 **1.微软在由世纪互联运营的 Microsoft Azure 中扮演何种角色？**
 
