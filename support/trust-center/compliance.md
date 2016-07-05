@@ -1,6 +1,6 @@
 > [AZURE.LANGUAGE]
-- [中文](/zh-cn/support/trust-center/compliance/)
-- [English](/en-us/support/trust-center/compliance-en/)
+- [中文](/support/trust-center/compliance/)
+- [English](/support/trust-center/compliance-en/)
 
 # 合规性
 ## 经行业验证符合国际/国内标准

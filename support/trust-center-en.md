@@ -76,6 +76,8 @@ Our Chinese customers are subject to many different laws and regulations that ma
 
 A cloud platform like Azure requires shared responsibility between the customer and the service provider. 21Vianet is responsible for the platform based on technology provided by Microsoft and seeks to provide a cloud service that can meet the security, privacy, and compliance needs of our customers. Customers are responsible for their environment once the service has been provisioned, including their applications, data content, virtual machines, access credentials, and compliance with regulatory requirements applicable to their particular industry and locale.
 
+[learn more about Shared Responsibility](/support/shared-responsibility/)
+
 ## Updates
 
 The information presented in the Trust Center is current as of the "last updated" date at top but is subject to change without notice. We encourage you to review the Trust Center periodically to be informed of new security, privacy and control, compliance and transparency developments.
