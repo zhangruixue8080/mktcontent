@@ -1,10 +1,20 @@
- <tags ms.service="trust-center" ms.date="" wacn.date="" wacn.lang="en"/>
+<properties
+	pageTitle=""
+    description=""
+    services=""
+    documentationCenter=""
+    authors=""
+    manager=""
+    editor=""
+    tags=""/>
 
 > [AZURE.LANGUAGE]
 - [中文](/support/trust-center/resources/)
 - [English](/support/trust-center/resources-en/)
 
 # Resources
+
+ <tags ms.service="trust-center-en" ms.date="" wacn.date="" wacn.lang="en"/>
 
 ## Security
 ### [Azure Network Security](https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf)

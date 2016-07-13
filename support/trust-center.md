@@ -1,4 +1,12 @@
- <tags ms.service="trust-center" ms.date="12/2015" wacn.date="12/2015" wacn.lang="cn"/>
+<properties
+	pageTitle=""
+    description=""
+    services=""
+    documentationCenter=""
+    authors=""
+    manager=""
+    editor=""
+    tags=""/>
 
 > [AZURE.LANGUAGE]
 - [中文](/support/trust-center/)
@@ -12,6 +20,8 @@
 * 隐私保护：您拥有并控制自己的客户数据
 * 合规性：我们的服务符合国际/国内标准
 * 透明度：您知道如何存储和访问您的数据，并知道我们如何保护您的数据
+ 
+ <tags ms.service="trust-center" ms.date="12/2015" wacn.date="12/2015" wacn.lang="cn"/>
  
 由世纪互联运营的 Microsoft Azure 服务是在中国大陆独立运营的公有云平台，由[北京世纪互联宽带数据中心有限公司](http://www.ch.21vianet.com/)的全资子公司上海蓝云网络科技有限公司（简称为“世纪互联”）独立运营和销售。采用与微软服务于全球的 Azure 技术，为客户提供全球一致的服务质量保障。
 
