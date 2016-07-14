@@ -1,10 +1,20 @@
- <tags ms.service="trust-center" ms.date="12/2015" wacn.date="12/2015" wacn.lang="en"/>
+<properties
+	pageTitle=""
+    description=""
+    services=""
+    documentationCenter=""
+    authors=""
+    manager=""
+    editor=""
+    tags=""/>
 
 > [AZURE.LANGUAGE]
 - [中文](/support/trust-center/faq/)
 - [English](/support/trust-center/faq-en/)
 
 ## Frequently Asked Questions (FAQ)
+ 
+ <tags ms.service="trust-center-en" ms.date="12/2015" wacn.date="12/2015" wacn.lang="en"/>
  
 **1.What role does Microsoft play in Microsoft Azure operated by 21Vianet?**
 
