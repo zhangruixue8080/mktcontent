@@ -23,6 +23,8 @@ This is a limited offer for new customers only. After activating your account, w
 
 1RMB Trial Offer is intended only for development and testing. If your purpose is for commercial use, please convert to  [Standard Pay-In-Advance](https://www.azure.cn/offers/ms-mc-arz-33p/) subscription.
 
+[Apply for 1RMB Trial >](/pricing/1rmb-trial/)
+
 ##Flexibility with Azure Credits
 
 You receive 1,500 RMB of Azure credits with the Trial. The choice is now yours on how you use your Azure credits. Use them on the Azure service that meet your needs including, including Virtual Machines, Cloud Services, Storage, SQL Database and many more.
