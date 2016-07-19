@@ -1,6 +1,6 @@
 <properties
-	pageTitle="Transparency - Microsoft Azure"
-    description=""
+	pageTitle="Trust Center - Microsoft Azure"
+    description="Trust Center - Transparency"
     services=""
     documentationCenter=""
     authors=""

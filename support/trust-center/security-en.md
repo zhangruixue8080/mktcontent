@@ -1,6 +1,6 @@
 <properties
-	pageTitle="Security - Microsoft Azure"
-    description=""
+	pageTitle="Trust Center - Microsoft Azure"
+    description="Trust Center - Security"
     services=""
     documentationCenter=""
     authors=""
@@ -51,7 +51,7 @@ Azure delivers a trusted foundation on which customers can design, build and man
 
 Azure Active Directory enables customers to manage access to Azure, Office 365 and a world of other cloud apps. Azure Active Directory is a comprehensive identity and access management cloud solution that helps secure access to your data and on-premises and cloud applications, and helps simplify the management of users and groups. It combines core directory services, advanced identity governance, security and application access management. Azure Active Directory also makes it easy for developers to build policy-based identity management into their applications.
 
-[Learn more](https://www.azure.cn/home/features/identity/)
+[Learn more](/home/features/identity/)
 
 Azure multi-factor authentication requires the use of more than one verification method to authenticate a user. Azure helps safeguard user access to data and applications with this extra layer of authentication for both on-premises and cloud applications. It delivers strong authentication with a range of easy verification options while meeting user demand for a simple sign-in process.
 

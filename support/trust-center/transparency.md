@@ -1,6 +1,6 @@
 <properties
-	pageTitle="透明度 - Microsoft Azure"
-    description=""
+	pageTitle="信任中心 - Microsoft Azure"
+    description="信任中心 - 透明度"
     services=""
     documentationCenter=""
     authors=""

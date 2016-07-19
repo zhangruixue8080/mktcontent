@@ -21,7 +21,7 @@
 
 This is a limited offer for new customers only. After activating your account, we offer a one-month trial for an initial 1 RMB payment which provides you with credits of up to 1,500 RMB to use on Azure services for up to a month.
 
-1RMB Trial Offer is intended only for development and testing. If your purpose is for commercial use, please convert to  [Standard Pay-In-Advance](https://www.azure.cn/offers/ms-mc-arz-33p/) subscription.
+1RMB Trial Offer is intended only for development and testing. If your purpose is for commercial use, please convert to  [Standard Pay-In-Advance](/offers/ms-mc-arz-33p/) subscription.
 
 ##Flexibility with Azure Credits
 
@@ -35,7 +35,7 @@ This offer is limited to one offer per new customer. For example, the same payin
 
 ##Conversion to Paid Offer
 
-You may convert your trial subscription into a  [Standard Pay-In-Advance](https://www.azure.cn/offers/ms-mc-arz-33p/) subscription by adding additional funds of 1,000 RMB or more. Your Azure Credits will be increased by the amount of the additional funds you add and are valid for 12 months. You may make subsequent additions of funds that will be valid for 12 months from the date of purchase, but this will not extend Azure Credits previously purchased and any Azure Credits not used within 12 months of their purchase will be forfeited.
+You may convert your trial subscription into a  [Standard Pay-In-Advance](/offers/ms-mc-arz-33p/) subscription by adding additional funds of 1,000 RMB or more. Your Azure Credits will be increased by the amount of the additional funds you add and are valid for 12 months. You may make subsequent additions of funds that will be valid for 12 months from the date of purchase, but this will not extend Azure Credits previously purchased and any Azure Credits not used within 12 months of their purchase will be forfeited.
 
 [Pay In Advance Now >](/pricing/pia/)
 
@@ -43,7 +43,7 @@ You may convert your trial subscription into a  [Standard Pay-In-Advance](https:
 
 Alipay and China UnionPay (CUP) only.
 
-More details on pricing and billing, including the prices for individual Azure features, can be found on our [Pricing page](https://www.azure.cn/pricing/overview/).
+More details on pricing and billing, including the prices for individual Azure features, can be found on our [Pricing page](/pricing/overview/).
 
 ##Cancelation Policy
 
@@ -87,11 +87,11 @@ An object is an entry in the directory service, represented by its unique distin
 
 If you exceed the data transfer quota, your account may be suspended without prior notice, and the credit amount will be reset to ‘0.’ You can visit [here](https://account.windowsazure.cn/Subscriptions/) to verify real-time data transfer usage status.
 
-If you will require a higher Data Transfer quota, you will need to convert to a  [Standard Pay-in-Advance Offer](https://www.azure.cn/offers/ms-mc-arz-33p/).
+If you will require a higher Data Transfer quota, you will need to convert to a  [Standard Pay-in-Advance Offer](/offers/ms-mc-arz-33p/).
 
 Service Level Agreements
 
-We do not provide Service Level Agreements (SLAs) for this trial offer. If you convert to a Pay-In-Advance Offer, we provide a set of robust service level agreements. More details on our SLAs can be found on our  [SLA page](https://www.azure.cn/support/legal/sla/). 
+We do not provide Service Level Agreements (SLAs) for this trial offer. If you convert to a Pay-In-Advance Offer, we provide a set of robust service level agreements. More details on our SLAs can be found on our  [SLA page](/support/legal/sla/). 
 
 Resource Commitment
 

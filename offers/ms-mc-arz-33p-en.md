@@ -23,7 +23,7 @@ You will receive Azure Credits equal to the amount of funds you add to your acco
 
 You may purchase additional Azure Credits, which will be valid for 12 months from the date of purchase, but this will not extend Azure Credits previously purchased and any Azure Credits not used within 12 months of their purchase will be forfeited. 
 
-This offer is billed at the standard [Pay-In-Advance rates](https://www.azure.cn/pricing/overview/).
+This offer is billed at the standard [Pay-In-Advance rates](/pricing/overview/).
 
 You will be notified at least 30 days in advance of any increases to the Pay-In-Advance rates. New services may be added periodically to the Azure platform. We will notify you of these new services and any fees that might be charged for using them. However, you would only be charged if you elect to use the new services.
 
@@ -33,7 +33,7 @@ You will be notified at least 30 days in advance of any increases to the Pay-In-
 
 Alipay and China UnionPay (CUP) only. Initial and subsequent payment must each be at least 1,000 RMB.
 
-More details on pricing and billing, including the prices for individual Azure features, can be found on our [Pricing page](https://www.azure.cn/pricing/overview/).
+More details on pricing and billing, including the prices for individual Azure features, can be found on our [Pricing page](/pricing/overview/).
 
 ## Cancelation Policy
 
@@ -41,7 +41,7 @@ You may cancel this subscription at any time but will forfeit any prepaid amount
 
 ## Usage Quotas
 
-The following monthly usage quotas are applied. If you need more than these limits, please contact [customer service](https://www.azure.cn/support/contact/) at any time so that we can understand your needs and adjust these limits appropriately.
+The following monthly usage quotas are applied. If you need more than these limits, please contact [customer service](/support/contact/) at any time so that we can understand your needs and adjust these limits appropriately.
 
 ## Cloud Services and Virtual Machines
 

@@ -1,6 +1,6 @@
 <properties
-	pageTitle="安全性 - Microsoft Azure"
-    description=""
+	pageTitle="信任中心 - Microsoft Azure"
+    description="信任中心 - 安全性"
     services=""
     documentationCenter=""
     authors=""
