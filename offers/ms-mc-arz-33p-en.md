@@ -27,7 +27,7 @@ This offer is billed at the standard [Pay-In-Advance rates](https://www.azure.cn
 
 You will be notified at least 30 days in advance of any increases to the Pay-In-Advance rates. New services may be added periodically to the Azure platform. We will notify you of these new services and any fees that might be charged for using them. However, you would only be charged if you elect to use the new services.
 
-[Pay-In-Advance Now >](/pricing/pia/)
+[Pay In Advance Now >](/pricing/pia/)
 
 ## Payment Options
 
