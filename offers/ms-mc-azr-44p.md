@@ -1,6 +1,6 @@
 <properties
-	pageTitle=""
-    description=""
+	pageTitle="优惠详情 - Microsoft Azure"
+    description="优惠详情 - 1 元一个月试用优惠"
     services=""
     documentationCenter=""
     authors=""
