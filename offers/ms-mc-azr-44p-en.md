@@ -95,5 +95,5 @@ Any quota described in the Usage Quotas section is not a commitment that there w
 For any subscriptions of this offer that are not incurring charges and are inactive for over 15 days, we reserve the right to remove any compute resources including hosted service(s), virtual machines and websites. Please note that no data would be deleted and customers can redeploy at any time. We will also provide advance notice prior to removing any compute resources.
 
 You can also avoid having your Compute resources removed by doing either of the following every 15 days:
-•Log  into the management [portal](https://manage.windowsazure.cn/).
-•Access your hosted service(s) via our Azure APIs
+-Log  into the management [portal](https://manage.windowsazure.cn/).
+-Access your hosted service(s) via our Azure APIs
