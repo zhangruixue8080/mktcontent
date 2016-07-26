@@ -13,7 +13,6 @@
 > [AZURE.LANGUAGE]
 - [中文](/offers/ms-mc-azr-44p/)
 - [English](/offers/ms-mc-azr-44p-en/)
-#Offer Details
 
 ##1 RMB Trial Offer Details
 
