@@ -15,8 +15,6 @@
 - [English](/offers/ms-mc-azr-44p-en/)
 #Offer Details
 
-## Azure Operated by 21Vianet
-
 ##1 RMB Trial Offer Details
 
 1 RMB Trial offer is designed to provide you with the preliminary experience of Azure services. With payment of 1 RMB, you will get Azure service credits equivalent to 1,500 RMB used within one month.
@@ -29,7 +27,7 @@ With this offering, you can use various of Azure services upon your needs, inclu
 
 - Any customer can only apply for this offer once. For example, the same payment account (including UnionPay and Alipay) can only be used once for this offer. Violation of this policy may result in termination of your subscription, deletion of all Customer Data, and forfeiture of the 1 RMB payment.
 - If you run out of 1,500 RMB credits or run out of one-month given (whichever comes first), your subscription will be disabled and your Customer Data will be permanently deleted unless you recharge  within 15 days as detailed in Conversion to Paid Offer below. This will re-activate your subscription but may require re-configuration of related services. 
-- 1 RMB Trial Offer is intended only for development and testing environment. If your purpose is for commercial use, please convert to [Standard Pay-In-Advanc](/offers/ms-mc-arz-33p/)
+- 1 RMB Trial Offer is intended only for development and testing environment. If your purpose is for commercial use, please convert to [Standard Pay-In-Advanc](/offers/ms-mc-arz-33p/) subscription.
 
 ##Update to Standard Pay-In-Advance Subscription
 
