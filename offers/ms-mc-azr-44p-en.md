@@ -52,7 +52,7 @@ The standard quota is 4 concurrent Standard Small (A1) compute instances or an e
 |Extra Small (A0) |1 |
 |Small (A1) |1 |
 |Medium (A2)| 2 |
-|Large (A3) or A6 |4 |
+|Large (A3) or (A6)|4 |
 
 **Storage**
 
@@ -72,13 +72,13 @@ You need to pay an extra charge if your use of the service exceeds the above lim
 
 **CDN Ceilings**
 
-200 GB per subscription, there is no limit on the note number (multiple notes could be created under one subscription)
+200GB per subscription, there is no limit on the note number (multiple notes could be created under one subscription)
 
 **Data Transfer**
 
-50 GB inbound data transfer
+50GB inbound data transfer
 
-50 GB outbound data transfer
+50GB outbound data transfer
 
 If you exceed the data transfer quota, your account may be suspended without prior notice, and the credit amount will be reset to ‘0.’ You can visit [here](https://account.windowsazure.cn/Subscriptions/) to verify real-time data transfer usage status.
 
@@ -94,4 +94,6 @@ Any quota described in the Usage Quotas section is not a commitment that there w
 
 For any subscriptions of this offer that are not incurring charges and are inactive for over 15 days, we reserve the right to remove any compute resources including hosted service(s), virtual machines and websites. Please note that no data would be deleted and customers can redeploy at any time. We will also provide advance notice prior to removing any compute resources.
 
-You can also avoid having your Compute resources removed by doing either of the following every 15 days:•Log  into the management [portal](https://manage.windowsazure.cn/).•Access your hosted service(s) via our Azure APIs
+You can also avoid having your Compute resources removed by doing either of the following every 15 days:
+•Log  into the management [portal](https://manage.windowsazure.cn/).
+•Access your hosted service(s) via our Azure APIs
