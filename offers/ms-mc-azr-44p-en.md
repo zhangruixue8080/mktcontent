@@ -30,7 +30,7 @@ With this offering, you can use various of Azure services upon your needs, inclu
 
 ##Update to Standard Pay-In-Advance Subscription
 
-You could update your subscription into a [Standard Pay-In-Advanc](/offers/ms-mc-arz-33p/) subscription any time during 1 RMB trial period. Please click “update now” in your subscription page, you could enjoy a richer experience of Azure services by adding additional funds of 1,000 RMB or more. Details please refer to [here](/offers/ms-mc-arz-33p/). 
+You could update your subscription into e [Standard Pay-In-Advanc](/offers/ms-mc-arz-33p/) subscription any time during 1 RMB trial period. Please click “update now” in your subscription page, you could enjoy a richer experience of Azure services by adding additional funds of 1,000 RMB or more. Details please refer to [here](/offers/ms-mc-arz-33p/). 
 
 ##Payment Options & Pricing Details
 
@@ -82,7 +82,7 @@ You need to pay an extra charge if your use of the service exceeds the above lim
 
 If you exceed the data transfer quota, your account may be suspended without prior notice, and the credit amount will be reset to ‘0.’ You can visit [here](https://account.windowsazure.cn/Subscriptions/) to verify real-time data transfer usage status.
 
-If you will require a higher Data Transfer quota, you will need to convert to a [Standard Pay-in-Advance Offer](/offers/ms-mc-arz-33p/).
+If you will require a higher Data Transfer quota, you will need to convert to e [Standard Pay-in-Advance Offer](/offers/ms-mc-arz-33p/).
 
 ##Service Level Agreements
 
