@@ -19,27 +19,28 @@
 |	服务	|	资源名称	|	服务类型	|	内核数	|	原使用量乘数	|	原 GUIID	|	新资源名称	|	新使用量乘数	|	新 GUIID	|
 |---|----|-----|---|---|-------|----|---|-------|
 |虚拟机	|SQL Server Web	|	A0, A1, A2, A3, D1, D1v2	|	1	|	1	|	8e9af6db-7104-4f1a-830e-93eabb955444	|	SQL Server Web (up to 4 cores)	|	1	|	不变	|
-虚拟机	SQL Server Web	A5, D2, D11, D2v2, D11v2	2	1	8e9af6db-7104-4f1a-830e-93eabb955444	SQL Server Web (up to 4 cores)	1	不变
-虚拟机	SQL Server Web	A6, D3, D12, D3v2, D4v2, D12v2	4	1	8e9af6db-7104-4f1a-830e-93eabb955444	SQL Server Web (up to 4 cores)	1	不变
-虚拟机	SQL Server Web	A4, A7, D4, D13, D13v2	8	2	8e9af6db-7104-4f1a-830e-93eabb955444	SQL Server Web (8 core)	1	f0185c96-1902-44c9-b4b5-9bf534862606
-虚拟机	SQL Server Web	D14, D5v2, D14v2	16	4	8e9af6db-7104-4f1a-830e-93eabb955444	SQL Server Web (16 core)	1	d8f0abe0-ebe9-4181-9239-6b6f9d516e8d
-虚拟机	SQL Server Web	D15v2	20	5	8e9af6db-7104-4f1a-830e-93eabb955444	SQL Server Web (20 core)	1	c44e509d-63cf-4ee5-8ba2-ad5a6bd6061d
-虚拟机	SQL Server Standard (标准版)	A0, A1, A2, A3, D1, D1v2	1	1	6b44a2ed-1103-41f3-90fe-8aaf147c3e41	SQL Server Standard (up to 4 cores)	1	不变
-虚拟机	SQL Server Standard (标准版)	A5, D2, D11, D2v2, D11v2	2	1	6b44a2ed-1103-41f3-90fe-8aaf147c3e41	SQL Server Standard (up to 4 cores)	1	不变
-虚拟机	SQL Server Standard (标准版)	A6, D3, D12, D3v2, D4v2, D12v2	4	1	6b44a2ed-1103-41f3-90fe-8aaf147c3e41	SQL Server Standard (up to 4 cores)	1	不变
-虚拟机	SQL Server Standard (标准版)	A4, A7, D4, D13, D13v2	8	2	6b44a2ed-1103-41f3-90fe-8aaf147c3e41	SQL Server Standard (8 core)	1	734b802a-0a4e-490c-98dd-a4ca285d835b
-虚拟机	SQL Server Standard (标准版)	D14, D5v2, D14v2	16	4	6b44a2ed-1103-41f3-90fe-8aaf147c3e41	SQL Server Standard (16 core)	1	339fc49d-f3cc-4c6d-83f9-44cf9c0c9d38
-虚拟机	SQL Server Standard（标注版）	D15v2	20	5	6b44a2ed-1103-41f3-90fe-8aaf147c3e41	SQL Server Standard (20 core)	1	8f89de2d-5e65-4560-8d94-208ad84b4881
-虚拟机	SQL Server Enterprise (企业版)	A0, A1, A2, A3, D1, D1v2	1	1	12699064-6912-437d-8cf7-9a50364cfb1d	SQL Server Enterprise (up to 4 cores)	1	不变
-虚拟机	SQL Server Enterprise (企业版)	A5, D2, D11, D2v2, D11v2	2	1	12699064-6912-437d-8cf7-9a50364cfb1d	SQL Server Enterprise (up to 4 cores)	1	不变
-虚拟机	SQL Server Enterprise (企业版)	A6, D3, D12, D3v2, D4v2, D12v2	4	1	12699064-6912-437d-8cf7-9a50364cfb1d	SQL Server Enterprise (up to 4 cores)	1	不变
-虚拟机	SQL Server Enterprise (企业版)	A4, A7, D4, D13, D13v2	8	2	12699064-6912-437d-8cf7-9a50364cfb1d	SQL Server Enterprise (8 core)	1	7f3e1d2c-74d6-4f47-b1f5-f929290ece86
-虚拟机	SQL Server Enterprise (企业版)	D14, D5v2, D14v2	16	4	12699064-6912-437d-8cf7-9a50364cfb1d	SQL Server Enterprise (16 core)	1	2f6d02be-a7f9-4918-96d1-c291793047e6
-虚拟机	SQL Server Enterprise（企业版）	D15v2	20	5	12699064-6912-437d-8cf7-9a50364cfb1d	SQL Server Enterprise (20 core)	1	f438a8b0-a0a8-4633-8cb1-21daba7270a0
-HDInsight
+|虚拟机	|	SQL Server Web	|	A5, D2, D11, D2v2, D11v2	|	2	|	1	|	8e9af6db-7104-4f1a-830e-93eabb955444	|	SQL Server Web (up to 4 cores)	|	1	|	不变	|
+|虚拟机	|	SQL Server Web	|	A6, D3, D12, D3v2, D4v2, D12v2	4	|	1	|	8e9af6db-7104-4f1a-830e-93eabb955444	|	SQL Server Web (up to 4 cores)	|	1	|	不变	|
+|虚拟机	|	SQL Server Web	|	A4, A7, D4, D13, D13v2	|	8	|	2	|	8e9af6db-7104-4f1a-830e-93eabb955444	|	SQL Server Web (8 core)	|	1	|	f0185c96-1902-44c9-b4b5-9bf534862606	|
+|虚拟机	|	SQL Server Web	|	D14, D5v2, D14v2	|	16	|	4	|	8e9af6db-7104-4f1a-830e-93eabb955444	|	SQL Server Web (16 core)	|	1	|	d8f0abe0-ebe9-4181-9239-6b6f9d516e8d	|
+|虚拟机	|	SQL Server Web	|	D15v2	|	20	|	5	|	8e9af6db-7104-4f1a-830e-93eabb955444	|	SQL Server Web (20 core)	|	1	|	c44e509d-63cf-4ee5-8ba2-ad5a6bd6061d	|
+|虚拟机	|	SQL Server Standard (标准版)	|	A0, A1, A2, A3, D1, D1v2	|	1	|	1	|	6b44a2ed-1103-41f3-90fe-8aaf147c3e41	|	SQL Server Standard (up to 4 cores)	|	1	|	不变	|
+|虚拟机	|	SQL Server Standard (标准版)	|	A5, D2, D11, D2v2, D11v2	|	2	|	1	|	6b44a2ed-1103-41f3-90fe-8aaf147c3e41	|	SQL Server Standard (up to 4 cores)	|	1	|	不变	|
+|虚拟机	|	SQL Server Standard (标准版)	|	A6, D3, D12, D3v2, D4v2, D12v2	|	4	|	1	|	6b44a2ed-1103-41f3-90fe-8aaf147c3e41	|	SQL Server Standard (up to 4 cores)	|	1	|	不变	|
+|虚拟机	|	SQL Server Standard (标准版)	|	A4, A7, D4, D13, D13v2	|	8	|	2	|	6b44a2ed-1103-41f3-90fe-8aaf147c3e41	|	SQL Server Standard (8 core)	|	1	|	734b802a-0a4e-490c-98dd-a4ca285d835b
+|虚拟机	|	SQL Server Standard (标准版)	D14, D5v2, D14v2	16	4	6b44a2ed-1103-41f3-90fe-8aaf147c3e41	|	SQL Server Standard (16 core)	|	1	|	339fc49d-f3cc-4c6d-83f9-44cf9c0c9d38	|
+|虚拟机	|	SQL Server Standard（标注版）	|	D15v2	|	20	|	5	|	6b44a2ed-1103-41f3-90fe-8aaf147c3e41	|	SQL Server Standard (20 core)	|	1	|	8f89de2d-5e65-4560-8d94-208ad84b4881	|
+|虚拟机	|	SQL Server Enterprise (企业版)	|	A0, A1, A2, A3, D1, D1v2	|	1	|	1	|	12699064-6912-437d-8cf7-9a50364cfb1d	|	SQL Server Enterprise (up to 4 cores)	|	1	|	不变	|
+|虚拟机	|	SQL Server Enterprise (企业版)	|	A5, D2, D11, D2v2, D11v2	|	2	|	1	|	12699064-6912-437d-8cf7-9a50364cfb1d	|	SQL Server Enterprise (up to 4 cores)	|	1	|	不变	|
+|虚拟机	|	SQL Server Enterprise (企业版)	A6, D3, D12, D3v2, D4v2, D12v2	|	4	|	1	|	12699064-6912-437d-8cf7-9a50364cfb1d	|	SQL Server Enterprise (up to 4 cores)	|	1	|	不变	|
+|虚拟机	|	SQL Server Enterprise (企业版)	|	A4, A7, D4, D13, D13v2	|	8	|	2	|	12699064-6912-437d-8cf7-9a50364cfb1d	|	SQL Server Enterprise (8 core)	|	1	|	7f3e1d2c-74d6-4f47-b1f5-f929290ece86	|
+|虚拟机	|	SQL Server Enterprise (企业版)	|	D14, D5v2, D14v2	|	16	|	4	|	12699064-6912-437d-8cf7-9a50364cfb1d	|	SQL Server Enterprise (16 core)	|	1	|	2f6d02be-a7f9-4918-96d1-c291793047e6	|
+|虚拟机	|	SQL Server Enterprise（企业版）	|	D15v2	|	20	|	5	|	12699064-6912-437d-8cf7-9a50364cfb1d	|	SQL Server Enterprise (20 core)	|	1	|	f438a8b0-a0a8-4633-8cb1-21daba7270a0	|
+
+## HDInsight
 下列 A 系列计量指标的资源 GUID 将于 2016 年 2 月 15 日发生变化。
 
-## HDINSIGHT 的新老计量指标
+HDINSIGHT 的新老计量指标
 服务	服务类型	资源	原 GUID	新 GUID
 HDInsight	A1 HDInsight	计算小时数	b0b01749-c39b-4275-b283-6a92aabc3347	b0b01749-c39b-4275-b283-6a92aabc3347
 HDInsight	A2 HDInsight	计算小时数	b0b01749-c39b-4275-b283-6a92aabc3347	a8fccba6-1070-483d-a82b-88bbabcb409f
