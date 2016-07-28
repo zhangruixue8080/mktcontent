@@ -27,7 +27,7 @@
 |虚拟机	|	SQL Server Standard (标准版)	|	A0, A1, A2, A3, D1, D1v2	|	1	|	1	|	6b44a2ed-1103-41f3-90fe-8aaf147c3e41	|	SQL Server Standard (up to 4 cores)	|	1	|	不变	|
 |虚拟机	|	SQL Server Standard (标准版)	|	A5, D2, D11, D2v2, D11v2	|	2	|	1	|	6b44a2ed-1103-41f3-90fe-8aaf147c3e41	|	SQL Server Standard (up to 4 cores)	|	1	|	不变	|
 |虚拟机	|	SQL Server Standard (标准版)	|	A6, D3, D12, D3v2, D4v2, D12v2	|	4	|	1	|	6b44a2ed-1103-41f3-90fe-8aaf147c3e41	|	SQL Server Standard (up to 4 cores)	|	1	|	不变	|
-|虚拟机	|	SQL Server Standard (标准版)	|	A4, A7, D4, D13, D13v2	|	8	|	2	|	6b44a2ed-1103-41f3-90fe-8aaf147c3e41	|	SQL Server Standard (8 core)	|	1	|	734b802a-0a4e-490c-98dd-a4ca285d835b
+|虚拟机	|	SQL Server Standard (标准版)	|	A4, A7, D4, D13, D13v2	|	8	|	2	|	6b44a2ed-1103-41f3-90fe-8aaf147c3e41	|	SQL Server Standard (8 core)	|	1	|	734b802a-0a4e-490c-98dd-a4ca285d835b	|
 |虚拟机	|	SQL Server Standard (标准版)	|	D14, D5v2, D14v2	|	16	|	4	|	6b44a2ed-1103-41f3-90fe-8aaf147c3e41	|	SQL Server Standard (16 core)	|	1	|	339fc49d-f3cc-4c6d-83f9-44cf9c0c9d38	|
 |虚拟机	|	SQL Server Standard（标注版）	|	D15v2	|	20	|	5	|	6b44a2ed-1103-41f3-90fe-8aaf147c3e41	|	SQL Server Standard (20 core)	|	1	|	8f89de2d-5e65-4560-8d94-208ad84b4881	|
 |虚拟机	|	SQL Server Enterprise (企业版)	|	A0, A1, A2, A3, D1, D1v2	|	1	|	1	|	12699064-6912-437d-8cf7-9a50364cfb1d	|	SQL Server Enterprise (up to 4 cores)	|	1	|	不变	|
