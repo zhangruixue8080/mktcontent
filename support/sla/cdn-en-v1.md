@@ -11,8 +11,8 @@
 <tags ms.service="legal-en" ms.date="03/2016" wacn.date="03/2016" wacn.lang="en"/>
 
 > [AZURE.LANGUAGE]
-- [中文](/support/sla/cdn/)
-- [English](/support/sla/cdn-en/)
+- [中文](/support/sla/cdn-v1/)
+- [English](/support/sla/cdn-en-v1/)
 #SLA for CDN
 
 We guarantee that at least 99.9% of the time CDN will respond to client requests and deliver the requested content without error. We will review and accept data from any commercially reasonable independent measurement system that you choose to monitor your content. You must select a set of agents from the measurement system's list of standard agents that are generally available and represent at least five geographically diverse locations in major People Republic of China metropolitan areas.
@@ -137,7 +137,7 @@ This SLA and any applicable Service Levels do not apply to any performance or av
 
 	- If the chosen test source itself contains problematic links, this will cause anomalies in the test results; these anomalies should be excluded when calculating the final availability value.
 
-3. "Monthly Uptime Percentage" is the percentage of HTTP transactions in which the CDN responds to client requests and delivers the requested content without error. Monthly Uptime Percentage of the CDN Service is calculated as the number of times the object was delivered sucessfully divided by the total number of requests (after removing erroneous data).
+3. "Monthly Uptime Percentage" is the percentage of HTTP transactions in which the CDN responds to client requests and delivers the requested content without error. Monthly Uptime Percentage of the CDN Service is calculated as the number of times the object was delivered successfully divided by the total number of requests (after removing erroneous data).
 
 4. The following Service Levels and Service Credits are applicable to Customer's use of the CDN Service:
 
@@ -149,9 +149,6 @@ Monthly Uptime Percentage | Service Credit
 
 ##Version History
 
-[1.1](/support/sla/cdn-en/)Last updated: March 2016
+1.0 Last updated: December 2015
 
 Release notes: Monthly Uptime Percentage<99.9%
-
-[1.0](/support/sla/cdn-en-v1/)Last updated: December 2015
-
