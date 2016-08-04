@@ -145,3 +145,4 @@ Monthly Uptime Percentage | Service Credit
 ---|---  
 <99.5% | 5%   
 <99% | 20% 
+
