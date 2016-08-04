@@ -143,12 +143,5 @@ This SLA and any applicable Service Levels do not apply to any performance or av
 
 Monthly Uptime Percentage | Service Credit  
 ---|---  
-<99.9% | 5%   
+<99.5% | 5%   
 <99% | 20% 
-
-
-##Version History
-
-1.0 Last updated: December 2015
-
-Release notes: Monthly Uptime Percentage<99.9%
