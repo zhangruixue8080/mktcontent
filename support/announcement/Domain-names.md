@@ -11,8 +11,8 @@
 <tags ms.service="legal" ms.date="08/2016" wacn.date="08/2016" wacn.lang="cn"/>
 
 > [AZURE.LANGUAGE]
-- [中文](/support/announcement/announcement-Domain-names/)
-- [English](/support/announcement/announcement-Domain-names-en/)
+- [中文](/support/announcement/Domain-names/)
+- [English](/support/announcement/Domain-names-en/)
 
 # 提醒：2016年8月18日后未经备案的域名可能会被屏蔽
 

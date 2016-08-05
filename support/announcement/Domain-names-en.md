@@ -11,8 +11,8 @@
 <tags ms.service="legal-en" ms.date="08/2016" wacn.date="08/2016" wacn.lang="en"/>
 
 > [AZURE.LANGUAGE]
-- [中文](/support/announcement/announcement-Domain-names/)
-- [English](/support/announcement/announcement-Domain-names-en/)
+- [中文](/support/announcement/Domain-names/)
+- [English](/support/announcement/Domain-names-en/)
 
 
 # ALERT: Domain names without ICP filing could be blocked after August 18th , 2016
