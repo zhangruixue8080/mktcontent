@@ -25,8 +25,8 @@ Consequently, without ICP filing, the domain names you used on Microsoft Azure o
 
 If your website has the above mentioned problem, please contact your web administrator ASAP.
 
+Please call the following numbers of the ICP registration support team of 21vianet at any time from 9 a.m. to 6 p.m. during working days if you have any question.
+
 * Hotline: 400-089-0365
 * Tele: 010-84563652
-
-Please call the following numbers of the ICP registration support team of 21vianet at any time from 9 a.m. to 6 p.m. during working days if you have any question.
 
